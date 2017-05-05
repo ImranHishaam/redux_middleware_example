@@ -1,0 +1,3 @@
+rootProject.name = 'Async_Redux'
+
+include ':app'
